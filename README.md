@@ -6,6 +6,18 @@
 
 ## インストール
 
+Codexのチャットに、次の文章を貼り付けてください。
+
+```text
+core-jp/kento-specialをマーケットプレイス登録して、検討スペシャルをインストールして
+```
+
+インストール後、Codexを再起動してください。
+
+### うまくいかない場合
+
+Codexのターミナルで、次のコマンドを順番に実行してください。
+
 ```powershell
 codex plugin marketplace add core-jp/kento-special
 codex plugin add kento-special@core-jp
