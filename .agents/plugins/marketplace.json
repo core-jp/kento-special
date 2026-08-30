@@ -1,0 +1,20 @@
+{
+  "name": "core-jp",
+  "interface": {
+    "displayName": "株式会社コア"
+  },
+  "plugins": [
+    {
+      "name": "kento-special",
+      "source": {
+        "source": "local",
+        "path": "./plugins/kento-special"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

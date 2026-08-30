@@ -1,0 +1,31 @@
+{
+  "name": "kento-special",
+  "version": "1.0.0",
+  "description": "企画・計画・意思決定を一問ずつ徹底的に検討するCodex用プラグイン",
+  "author": {
+    "name": "株式会社コア",
+    "url": "https://core1997.com/"
+  },
+  "homepage": "https://core1997.com/ai-mcp/kento-special/",
+  "repository": "https://github.com/core-jp/kento-special",
+  "license": "MIT",
+  "keywords": ["planning", "decision-making", "japanese", "mcp"],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "検討スペシャル",
+    "shortDescription": "企画や計画を、一問ずつ徹底検討します。",
+    "longDescription": "企画・計画・意思決定の前提、目的、制約、利用者、代替案、リスクを一問ずつ整理します。検討手順は株式会社コアの公開MCPから毎回取得するため、再インストールせず最新版を利用できます。",
+    "developerName": "株式会社コア",
+    "category": "Productivity",
+    "capabilities": ["Read", "MCP"],
+    "websiteURL": "https://core1997.com/ai-mcp/kento-special/",
+    "privacyPolicyURL": "https://core1997.com/privacy/",
+    "termsOfServiceURL": "https://core1997.com/ai-kiyaku.html",
+    "defaultPrompt": [
+      "新しいサービス案を検討スペシャルで検討して",
+      "この事業計画を検討スペシャルで見直して"
+    ],
+    "brandColor": "#5546FF"
+  }
+}

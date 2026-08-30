@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "kento-special": {
+      "type": "http",
+      "url": "https://core1997.com/ai-mcp/kento-special/mcp/"
+    }
+  }
+}
