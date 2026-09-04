@@ -1,0 +1,13 @@
+{
+  "name": "kento-special",
+  "version": "1.1.0",
+  "description": "企画・計画・意思決定を一問ずつ徹底的に検討するClaude Code用プラグイン",
+  "author": {
+    "name": "株式会社コア"
+  },
+  "homepage": "https://core1997.com/ai-mcp/kento-special/",
+  "repository": "https://github.com/core-jp/kento-special",
+  "license": "MIT",
+  "keywords": ["planning", "decision-making", "japanese", "mcp"],
+  "skills": "./claude-skills/"
+}

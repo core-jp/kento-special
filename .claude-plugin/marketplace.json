@@ -1,0 +1,17 @@
+{
+  "name": "core-jp",
+  "owner": {
+    "name": "株式会社コア"
+  },
+  "description": "株式会社コアが提供する企画・計画・意思決定支援プラグイン",
+  "plugins": [
+    {
+      "name": "kento-special",
+      "source": "./plugins/kento-special",
+      "description": "企画・計画・意思決定を一問ずつ徹底的に検討するClaude Code用プラグイン",
+      "version": "1.1.0",
+      "category": "productivity",
+      "tags": ["planning", "decision-making", "japanese", "mcp"]
+    }
+  ]
+}

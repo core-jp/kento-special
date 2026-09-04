@@ -1,6 +1,6 @@
 {
   "name": "kento-special",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "企画・計画・意思決定を一問ずつ徹底的に検討するCodex用プラグイン",
   "author": {
     "name": "株式会社コア",
@@ -10,7 +10,7 @@
   "repository": "https://github.com/core-jp/kento-special",
   "license": "MIT",
   "keywords": ["planning", "decision-making", "japanese", "mcp"],
-  "skills": "./skills/",
+  "skills": "./codex-skills/",
   "mcpServers": "./.mcp.json",
   "interface": {
     "displayName": "検討スペシャル",
