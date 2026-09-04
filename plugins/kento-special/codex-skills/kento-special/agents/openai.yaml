@@ -1,0 +1,4 @@
+interface:
+  display_name: "検討スペシャル"
+  short_description: "計画やアイデアを一問ずつ掘り下げ、曖昧さや見落としを徹底検討します"
+  default_prompt: "$kento-special を使って、新しいサービス案を検討スペシャルで検討して"
